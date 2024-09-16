@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 🌷, I'm Railane</h1>
 <h3 align="center">I am a beginner system developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rai-sys&label=Profile%20views&color=0e75b6&style=flat" alt="rai-sys" /> </p>
-
 - 👩‍💻 I’m currently learning algorithms
 
 - 📄 Know about my [experiences](https://www.credly.com/badges/b50106a8-0813-402f-a463-5b97d5d29f85/public_url)
