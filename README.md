@@ -77,9 +77,3 @@
 <p align="center">.・。.・゜✭・.・✫・゜・。.</p>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Rai-sys/Rai-sys/output/snake.svg" alt="Snake animation" />
-
-###
